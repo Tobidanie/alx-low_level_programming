@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * swap_int - swaps the value of a and b
+ * swap_int - swapsthe value of a and b
  * @a: pointer 1
- * @b: pointer 2 
+ * @b: pointer 2
  * Return: 0
  */
 
